@@ -1,0 +1,475 @@
+.container{
+    padding: 30px;
+    margin-left: 100px;
+}
+.div{
+    margin-left: 900px;
+    margin-top: -100px;
+}
+.content{
+    height: 20px;
+    width: 20px;
+    margin-left: 870px;
+   position: relative;
+   top: -70px;
+}
+.di{
+    margin-left: 1100px;
+    margin-top: -106px;
+}
+.area{
+    width: 20px;
+    height: 20px;
+    margin-left: 1070px;
+    position: relative;
+    top: -70px;
+}
+.png{
+    margin-left: 0px;
+    margin-top: -10px;
+    color: rgb(151, 151, 151);
+}
+.pop{
+    display: inline-flex;
+    margin-left: 100px;
+    margin-top: 10px;
+    position: relative;
+   
+   
+}
+.main{
+    margin-left: 40px;
+}
+.main:hover{
+    color: rgb(207, 189, 87);
+    cursor: pointer;
+}
+.jpg{
+   height: 100px;
+   width: 190px;
+   margin-left: 250px;
+   margin-top: -25px;
+}
+.cross{
+    width: 1390px;
+    height: 700px;
+    margin-left: -20px;
+    content: "";
+}
+.h2{
+    margin-top: -450px;
+    margin-left: 450px;
+    font-size: 20px;
+    color: white;
+    
+}
+.h1{
+    margin-left:400px;
+    font-size: 50px;
+    color: white;
+    margin-top: 70px;
+}
+.cut{
+    margin-left: 600px;
+    height: 50px;
+    width: 150px;
+    margin-top: -130px;
+    background: none;
+    border: 3px solid #cca772;
+    margin-top: 70px;
+}
+.cut:hover{
+background-color: rgb(192, 168, 59);
+border-color: goldenrod;
+
+}
+
+.box{
+    border: 1px solid rgb(0, 0, 0);
+    position: relative;
+    top: 500px;
+    height: 200px;
+    top: -10px;
+    width: 1000px;
+    justify-content: center;
+    margin-left: 200px;
+    background-color: white;
+    border: none;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+   
+}
+.form{
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 350px;
+    border: 0.5px solid gray;
+}
+
+.some{
+    width: 100px;
+}
+.home{
+    width: 100%;
+    height: 50px;
+}
+.id{
+    width: 100%;
+    height: 50px;
+}
+.do{
+    width: 250px;
+    height: 56px;
+    margin-left: 20px;
+    border: 0.5px solid gray;
+    color: gray;
+}
+.doo{
+    width: 250px;
+    height: 56px;
+    margin-left: 10px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    border: 0.5px solid gray;
+    color: gray;
+}
+.dooo{
+    width: 150px;
+    height: 56px;
+    margin-left: 5px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    border: 0.5px solid gray;
+    color: gray;
+}
+.aria{
+    height: 55px;
+    width: 267px;
+    background-color: rgb(197, 165, 83);
+    border: none;
+    color: white;
+}
+.aria:hover{
+    background-color: white;
+    border: 1px solid  rgb(197, 165, 83);
+    font-weight: bold;color: #cca772;
+}
+.src{
+        position: relative;
+        top: 200px;
+        left: 100px;
+}
+.alt{
+    position: relative;
+    left: 100px;
+    top: 200px;
+}
+.img{
+    position: relative;
+    top: 410px;
+    left: -363px;
+}
+.fo{
+    position: relative;
+    left: 700px;
+    font-size: 48px;
+}
+.post{
+    position: relative;
+    left: 700px;
+}
+.button{
+    height: 55px;
+    width: 200px;
+    background-color: rgb(197, 165, 83);
+    border: none;
+    color: white;
+    position: relative;
+    left: 700px;
+}
+.button:hover{
+    background-color: white;
+    border: 1px solid  rgb(197, 165, 83);
+    font-weight: bold;color: #cca772;
+    color: black;
+}
+.value{
+    height: 50px;
+    width: 100px;
+    margin-left: 650px;
+    margin-top: 100px;
+}
+.vo{
+    margin-left: 500px;
+    font-size: 49px;
+}
+.box1{
+    border: 1px solid black;
+    width: 350px;
+    margin-left: 100px;
+    box-shadow: 0px 5px 20px 0px rgba(143, 141, 141, 0.1);
+    border-radius: 10px;
+}
+
+.mg{
+    width: 351px;   
+    border-radius: 10px;
+}
+.hot{
+    font-size: 49px;
+    margin-left: 30px;
+    font-family: "Playfair Display", serif;
+}
+
+.per{
+    margin-top: -70px;
+    margin-left: 190px;
+    font-family: "Playfair Display", serif;
+}
+.cont{
+    margin-left: 30px;
+}
+.cont:hover{
+    color: #cca772;
+    cursor:pointer;
+}
+.fort{
+    margin-left: 30px;
+}
+.bool{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.bool:hover{
+    color: #cca772;
+}
+.box2{
+    border: 1px solid black;
+    width: 350px;
+    margin-left: 500px;
+    box-shadow: 0px 5px 20px 0px rgba(143, 141, 141, 0.1);
+    border-radius: 10px;
+    margin-top: -595px;
+} 
+.box3{
+    border: 1px solid black;
+    width: 350px;
+    margin-left: 900px;
+    box-shadow: 0px 5px 20px 0px rgba(143, 141, 141, 0.1);
+    border-radius: 10px;
+    margin-top: -595px;
+}
+.sea{
+    margin-top: 50px;
+    width: 1400px;
+    height: 400px;
+    margin-left: -20px;
+}
+.mm{
+    margin-top: -250px;
+    margin-left: 570px;
+    font-size: 46px;
+    color: white;
+}
+.m{
+    margin-top: -20px;
+    margin-left: 500px;
+    color: white;
+}
+.kon{
+    margin-top: 300px;
+    margin-left: 600px;
+    height: 100px;
+    width: 150px;
+}
+.rom{
+    margin-left: 520px;
+    font-size: 48px;
+}
+.xx{
+    margin-left: 106px;
+}
+.tox1{
+    border: 2px solid none;
+    margin-top: 100px;
+    width: 370px;
+    margin-left: 80px;
+    background-color: white;
+    background-clip: border-box;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+    height: 200px;
+}
+.tox1:hover{
+    background-color: #cca772;
+    cursor: pointer;
+}
+.tox2:hover{
+    background-color: #cca772;
+    cursor: pointer;
+}
+.tox3:hover{
+    background-color: #cca772;
+    cursor: pointer;
+}
+.tox2{
+    
+    margin-top: -196px;
+    width: 370px;
+    margin-left: 500px;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+    height: 200px;
+}
+.tox3{
+    margin-top: -196px;
+    width: 370px;
+    margin-left: 900px;
+    box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.1);
+    height: 200px;
+}
+.for{
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.roos{
+    margin-left: 85px;
+    margin-top: -40px;
+}
+.p{
+    margin-left: 80px;
+}
+.pox1{
+   
+    margin-top: 100px;
+    width: 350px;
+    margin-left: 100px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    height: 250px;
+}
+.pox2{
+    margin-top: -250px;
+    width: 350px;
+    margin-left: 900px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    height: 250px;
+}
+.pox3{
+    margin-top: -250px;
+    width: 350px;
+    margin-left: 500px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    height: 250px;
+}
+.roaa{
+    margin-left: 470px;
+    font-size: 48px;
+}
+.ini{
+    margin-left: 110px;
+    margin-top: -50px;
+}
+.coi{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.illo{
+    margin-left: 90px;
+}
+.dio{
+    margin-left: 100px;
+}
+.kn{
+    margin-top: 300px;
+    margin-left: 600px;
+    height: 50px;
+    width: 150px;
+}
+.ram1{
+    border-radius: 10px;
+    width: 360px;
+    margin-left:50px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    height: 650px;
+}
+.hotel{
+    width: 30px;
+    height: 30px;
+    margin-top: -20px;
+}
+.id{
+    margin-left: 40px;
+    margin-top: -27px;
+}
+.z{
+    width: 30px;
+    height: 30px;
+    margin-left: 150px;
+    position: relative;
+    top: -72px;
+}
+.hh{
+    margin-left: 200px;
+margin-top: -100px;
+}
+.noy{
+    margin-left: 40px;
+}
+.to{
+    margin-left: 30px;
+}
+.ram2{
+    height: 650px;
+    width: 360px;
+    margin-left: 450px;
+    margin-top: -650px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    border-radius: 10px;
+}
+.ram3{
+    
+    width: 360px;
+    margin-left: 850px;
+    margin-top: -650px;
+    box-shadow: 0px 5px 20px 0px rgba(63, 62, 62, 0.1);
+    height: 650px;
+    border-radius: 10px;
+}
+.duo{
+    width: 1350px;
+    margin-left:-10px;
+  
+}
+.footer{
+    margin-top: -800px;
+    color: white;
+margin-left: 100px ;
+}
+.foote{
+    color: white;
+    margin-left: 300px;
+    margin-top: -180px;
+
+}
+.foot{
+    color: white;
+    margin-left: 500px;
+    margin-top: -185px;
+}
+.foots{
+    color: white;
+    margin-left: 700px;
+    margin-top: -185px;
+}
+.afan{
+    color: white;
+    font-size: 20px;
+    margin-left: 250px;
+    margin-top: -180px;
+}
+.s{
+    color: white;
+}
+.j{
+    margin-left: -800px;
+}
